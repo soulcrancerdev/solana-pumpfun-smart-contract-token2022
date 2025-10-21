@@ -65,4 +65,4 @@ By leveraging TOKEN2022 and the Pumpfun smart contract, developers can build rob
 ## Troubleshooting
 
 It is not representing the basic code so if you have any issue during the run of this repo, feel free to open issues.
-Or contact here: [telegram](https://t.me/soulcrancerdev)
+Or contact via telelgram.
