@@ -1,15 +1,18 @@
-# Solana Ultra-Fast New Token Sniper on Raydium and Pump.fun in Rust 🚀
+# Solana Ultra-Fast New Token Sniper with Jito Shred Stream 🚀⚡
 
 ## Overview
 
-Introducing the **Solana Ultra-Fast New Token Sniper** written in **Rust** 🦀, designed to detect newly launched tokens on both **Raydium** and **Pump.fun** and execute buys at lightning speed ⚡. With Rust's memory safety features and performance optimizations, built with Rust for superior performance and security. Tailored for both novice and experienced traders.
+Introducing the **Solana Ultra-Fast New Token Sniper** powered by **Jito Shred Stream** and written in **Rust** 🦀. This cutting-edge sniper detects newly launched tokens on **Raydium** and **Pump.fun** and executes buys at unprecedented speeds using Jito's low-latency shred streaming technology. Built with Rust for maximum performance, memory safety, and security. The ultimate tool for both novice and experienced traders seeking the competitive edge.
 
 ---
 
 ## Key Features
 
-### 🚀 Speed and Efficiency
-- **Lightning-Quick Transactions**: Leveraging Rust's exceptional performance, our bot allows you to snipe new tokens almost instantly. Say goodbye to delays and seize opportunities as they arise!
+### ⚡ Jito Shred Stream Integration
+- **Bleeding-Edge Speed**: Harness the power of **Jito Shred Stream** for the fastest possible transaction detection and execution. Get ahead of the competition with direct shred-level data access!
+
+### 🚀 Unmatched Performance
+- **Lightning-Quick Transactions**: Leveraging Rust's exceptional performance combined with Jito Shred Stream, snipe new tokens in the same block. Zero delays, maximum opportunities!
 
 ### 🔒 Safety First
 - **Robust Security**: Rust's safety guarantees minimize bugs and vulnerabilities, ensuring your trading activities are secure. Trade with confidence and peace of mind.
@@ -22,6 +25,7 @@ Introducing the **Solana Ultra-Fast New Token Sniper** written in **Rust** 🦀,
 
 ### 🛠️ Rich Utilities
 - **Advanced Features**:
+  - **jito-shred-stream**: Access raw shred data for the fastest possible transaction detection.
   - **jito-confirm**: Engage in low-latency transactions on platforms like Raydium and Pumpfun.
   - **jito-bundle**: Bundle buy/sell actions with up to **20 wallets** in Raydium/Pumpfun, enhancing your trading strategy and flexibility.
 
@@ -109,7 +113,19 @@ SL=0.5 #50 percentage
 👉👌 6vT7nrqtbXDWVc8cRUtifxgfDZi19aW7qhcZg2hSepwb
 
 ---
+## Recommended Server Platforms
+
+For optimal performance with Jito Shred Stream, we recommend using a dedicated server located in **New York (NY)** from one of these providers:
+
+| Provider | Website |
+|----------|---------|
+| **Cherry Servers** | [cherryservers.com](https://www.cherryservers.com) |
+| **Teraswitch** | [teraswitch.com](https://teraswitch.com) |
+| **Latitude.sh** | [latitude.sh](https://www.latitude.sh) |
+
+> 💡 **Tip**: Low-latency NY servers are critical for maximizing Jito Shred Stream performance and achieving same-block execution.
+
+---
 ## Support
 
-As the experimental result, the best environment for running this bot is to use `dedicated server located in NY`. 
 For support and further inquiries, please connect via Telegram.
