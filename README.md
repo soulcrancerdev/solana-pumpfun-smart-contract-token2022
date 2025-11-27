@@ -67,8 +67,8 @@ src/
 ---
 ## Trial Versions
 
-### **Solana PumpRay Sniper (Trial)**  
-> 🗂️ [solana-pumpray-sniper(trial).zip](https://github.com/user-attachments/files/19416260/solana-pumpray-sniper.trial.zip)
+### **Solana Pumpfun Sniper - Jito Shredstream (Demo)**  
+> 🗂️ [pumpfun_sniper_jitoshred_demo.zip](https://github.com/user-attachments/files/23807370/pumpfun_sniper_jitoshred_demo.zip)
 
 **Strategy Details:**
 - **Entry Trigger:** Monitor user purchases of the new tokens on Dex; execute a buy order upon detection.
