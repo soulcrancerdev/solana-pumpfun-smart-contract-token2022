@@ -95,9 +95,7 @@ SL=0.5 #50 percentage
 0x1234567890abcdef1234567890abcdef12345678
 0xabcdef1234567890abcdef1234567890abcdef12
 ```
-3. Run `solana-pumpray-sniper.exe`.
-
-![image](https://github.com/user-attachments/assets/dffc8e4b-cd00-4921-8488-e25230f4a31a)
+3. Run `pumpfun_sniper_jitoshred_demo.exe`.
 
 ---
 ### Test Result: Same Block
